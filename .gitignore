@@ -123,4 +123,4 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-gnimmm.jl
+*.jl
