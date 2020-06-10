@@ -124,3 +124,5 @@ venv.bak/
 dmypy.json
 
 *.jl
+node_modules/
+output/

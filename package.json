@@ -1,0 +1,10 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mingchun.or <mingchuno@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
